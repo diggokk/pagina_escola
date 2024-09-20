@@ -63,7 +63,7 @@ body {
     .dropdown-content li a {
     display: block;
     padding: 10px;
-    color: blue;
+    color: rgb(176, 80, 231);
     text-decoration: none;
     }
     .dropdown-content li a:hover {
