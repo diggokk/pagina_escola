@@ -30,7 +30,7 @@ body {
     }
     .menu a {
     text-decoration: none;
-    color: blue;
+    color: rgb(117, 140, 218);
     font-weight: bold;
     padding: 10px 15px;
     transition: background-color 0.3s, color 0.3s;
@@ -42,7 +42,7 @@ body {
     
     }
     .menu a:active {
-    background-color: rgb(125, 125, 233);
+    background-color: rgb(75, 75, 230);
     color: white;
     }
     /* Dropdown */
@@ -63,7 +63,7 @@ body {
     .dropdown-content li a {
     display: block;
     padding: 10px;
-    color: rgb(176, 80, 231);
+    color: rgb(80, 158, 231);
     text-decoration: none;
     }
     .dropdown-content li a:hover {
