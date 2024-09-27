@@ -37,7 +37,7 @@ body {
     }
     /* Cor ao passar o mouse e ao clicar */
     .menu a:hover {
-    background-color: rgb(96, 130, 194);
+    background-color: rgb(255, 255, 255);
     color: white;
     
     }
