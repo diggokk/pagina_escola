@@ -67,7 +67,7 @@ body {
     text-decoration: none;
     }
     .dropdown-content li a:hover {
-    background-color: lightblue;
+    background-color: rgb(62, 104, 153);
     color: white;
     }
     .dropdown:hover .dropdown-content {
