@@ -30,7 +30,7 @@ body {
     }
     .menu a {
     text-decoration: none;
-    color: rgb(96, 138, 216);
+    color: rgb(255, 255, 255);
     font-weight: bold;
     padding: 10px 15px;
     transition: background-color 0.3s, color 0.3s;
@@ -68,7 +68,7 @@ body {
     }
     .dropdown-content li a:hover {
     background-color: rgb(96, 138, 216);
-    color: white;
+    color: rgb(96, 138, 216)e;
     }
     .dropdown:hover .dropdown-content {
     display: block;
