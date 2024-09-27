@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #475363;
+    background-color: #fff;
     padding: 10px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
@@ -30,19 +30,19 @@ body {
     }
     .menu a {
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: rgb(96, 138, 216);
     font-weight: bold;
     padding: 10px 15px;
     transition: background-color 0.3s, color 0.3s;
     }
     /* Cor ao passar o mouse e ao clicar */
     .menu a:hover {
-    background-color: rgb(62, 104, 153);
+    background-color: lightblue;
     color: white;
     
     }
     .menu a:active {
-    background-color: rgb(255, 255, 255);
+    background-color: darkblue;
     color: white;
     }
     /* Dropdown */
@@ -67,7 +67,7 @@ body {
     text-decoration: none;
     }
     .dropdown-content li a:hover {
-    background-color: rgb(62, 104, 153);
+    background-color: rgb(96, 138, 216);
     color: white;
     }
     .dropdown:hover .dropdown-content {
@@ -86,3 +86,4 @@ body {
     .social-links img:hover {
     transform: scale(1.1);
     }
+    
