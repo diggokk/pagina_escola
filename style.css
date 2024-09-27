@@ -30,7 +30,7 @@ body {
     }
     .menu a {
     text-decoration: none;
-    color: rgb(117, 140, 218);
+    color: rgb(44, 62, 121);
     font-weight: bold;
     padding: 10px 15px;
     transition: background-color 0.3s, color 0.3s;
