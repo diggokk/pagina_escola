@@ -67,7 +67,7 @@ let currentIndex = 0;
             const totalImages = images.children.length;
             currentIndex += direction;
 
-            if (currentIndex < 0) {
+            if (currentIndex > 0) {
                 currentIndex = totalImages - 1; // Vai para a última imagem
             } else if (currentIndex >= totalImages) {
                 currentIndex = 0; // Volta para a primeira imagem
