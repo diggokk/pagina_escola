@@ -42,7 +42,7 @@ body {
     
     }
     .menu a:active {
-    background-color: darkblue;
+    background-color: rgb(255, 255, 255);
     color: #475363;
     }
     /* Dropdown */
